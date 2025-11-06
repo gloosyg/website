@@ -1,2 +1,2 @@
 hello readme file
-(website)[https://gloosyg.github.io/website/]
+[https://gloosyg.github.io/website/](website)
